@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<head>
 		<link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
-		<link href='https://ramity.com/apps/analytics_2/css/dashboard.css' rel='stylesheet' type='text/css'>
+		<link href='css/dashboard.css' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
 		<div id="top">
@@ -25,7 +25,7 @@
 					<a class="sidebaritem" href="">Settings</a>
 				</div>
 				<div id="bar">
-					
+
 				</div>
 			</div>
 		</div>
